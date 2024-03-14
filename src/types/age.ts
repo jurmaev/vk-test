@@ -3,3 +3,8 @@ export type Age = {
   name: string;
   age: number;
 };
+
+export type FetchedName = {
+  name: string;
+  age: number;
+};
